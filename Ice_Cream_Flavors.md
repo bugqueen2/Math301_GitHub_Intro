@@ -7,3 +7,4 @@ Add a line for yourself under **Favorites**.
   
 ## Favorites
 - Daryl: Cookie Dough, Strawberry, Mustard
+- Leo: Chocolate, Strawberry, Matcha
